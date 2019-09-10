@@ -1,5 +1,45 @@
 body {
-  font-family: arial;
-  background-color:rgb(185,179,175;)}
+  font-family: "Helvetica";
+  background-color:tan;)}
+h1.intro{
+    padding-top: 17px;}
 h1 {
-  color: DarkCyan;}
+    font-family: "Georgia";
+    text-align: center;
+    color: #3139e6;
+    padding-top: 80px;}
+h1.outro{
+    padding-bottom: 30px;}
+h2 {
+    color: #59575c;}
+h3{
+    color: #0b7bc5;}
+table {
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    background: #dbdbdb;}
+table.frontTable{
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    background: #dbdbdb;}
+th, td {
+    padding: 10px;
+    text-align: center;}
+img {
+    position:relative;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+iFrame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
